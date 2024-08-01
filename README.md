@@ -1,7 +1,4 @@
 # Electrow.IOT
-Websites and Software developments
-Certainly! Here's a README file you can use:
-Welcome to Electrow.IOT
 
 Welcome to the Electrow.IOT GitHub repository! We specialize in providing top-notch services in Human Machine Interface Systems (HMIS), Flight Simulators, System Configurations, Website Development, and Website Management. Our team is dedicated to delivering innovative solutions that cater to your unique needs.
 
